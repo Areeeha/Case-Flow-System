@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+aiofiles
+jinja2
+shap
+matplotlib
+scikit-learn
+xgboost
+pillow
+opencv-python
+numpy
+pytesseract
+joblib
